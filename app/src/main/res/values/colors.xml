@@ -1,0 +1,12 @@
+<resources>
+    <color name="mn_background">#F7F8FA</color>
+    <color name="mn_surface">#FFFFFF</color>
+    <color name="mn_primary">#334E68</color>
+    <color name="mn_on_primary">#FFFFFF</color>
+    <color name="mn_secondary">#486581</color>
+    <color name="mn_on_surface">#1F2933</color>
+    <color name="mn_muted">#7B8794</color>
+    <color name="mn_outline">#E4E7EB</color>
+    <color name="mn_on_hero">#F5F7FA</color>
+    <color name="mn_error">#D64545</color>
+</resources>
